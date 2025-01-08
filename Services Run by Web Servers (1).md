@@ -89,7 +89,7 @@ What it does:  it runs apps over the internet and increases performance
 
 How it works: It uses the internet to process an app instead of using your computer's own hardware to run it, which will usually increase performance.
 
-RLE:  AWS ![][image1]
+RLE: AWS
 
 AWS stands for **Amazon Web Services**. It’s like a big toolbox in the cloud that businesses (and developers like you\!) can use to:
 
