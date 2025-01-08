@@ -117,31 +117,3 @@ Web servers connect to databases to retrieve or update data dynamically.
 What it does:  things like sounds, images, videos, etc, any files
 
 How it works: it “fetches”  the media from storage and then displays it.
-
-### Questions:
-
-1. What does AWS stand for?	  
-1. Amazon Web server  **X**  
-2. Amazon Website  **X**  
-3. Amazon Web services  ✔️  
-4. Angry wasp spider **X**
-
-2. What does a database do?  
-1.  It stores data for later use  ✔️  
-2.  It creates a data value **X**  
-3.  It assigns a value to the website **X**  
-4.  It removes user data **X**  
-     
-3. What does media NOT consist of  
-1.  Images **X**  
-2.  Sounds **X**  
-3.  Text  ✔️  
-4.  Videos **X**
-
----
-
-- [x] ~~Rl example~~  
-- [x] ~~Questions~~   
-- [ ] Poster  
-- [ ] Qr code  
-- [ ] Everyday life example  
