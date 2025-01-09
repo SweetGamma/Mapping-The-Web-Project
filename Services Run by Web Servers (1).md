@@ -124,18 +124,7 @@ How it works: it “fetches”  the media from storage and then displays it.
 1. Amazon Web server  **X**  
 2. Amazon Website  **X**  
 3. Amazon Web services  ✔️  
-4. Angry wasp spider **X**
-
-2. What does a database do?  
-1.  It stores data for later use  ✔️  
-2.  It creates a data value **X**  
-3.  It assigns a value to the website **X**  
-4.  It removes user data **X**  
-     
-3. What does media NOT consist of  
-1.  Images **X**  
-2.  Sounds **X**  
-3.  Text  ✔️  
+4. Angry wasp  
 4.  Videos **X**
 
 ---
@@ -155,7 +144,18 @@ How it works: it “fetches”  the media from storage and then displays it.
 
 ![][image5]  
 ![][image6]  
-![][image7]
+![][image7]spider **X**
+
+2. What does a database do?  
+1.  It stores data for later use  ✔️  
+2.  It creates a data value **X**  
+3.  It assigns a value to the website **X**  
+4.  It removes user data **X**  
+     
+3. What does media NOT consist of  
+1.  Images **X**  
+2.  Sounds **X**  
+3.  Text  ✔️ 
 
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAiCAIAAACFqY20AAAFCUlEQVR4Xu2WP4icZRDG387irrniWMgKhwsbDm5Ri6CFks7CSgRtbKKFhVaSFHZaXCUEPMLKcRbhIIWVSKqgCAGRCILNSYpTsD3Tis3ZvP5mnt3Z2ffbPdcYvRQOL7vfvv/mmWeemW9L7di9774/vPXZh7sfXXv/Az73P7159OP9vOH09A9mGCe/PsjzMia12i64HR//zBKfeZIjeMTd2+9e5ROPYMgbsJJ/AKuUQemNNgeXNC5cfJ7Psja8/NKrAQtPpayXjW2W8nFZKVtlc6eUPv6aJfDp4PqTz8akO+2HRwardsPGdo5nBtTd923T2vCpnRdeef0KgwfODJ+5DOJLL748O9YbMQmmhlSDsrHNEgffePOdvIRBm6Bc//gTzcAfV5mXjW24EKk4AgOXsz/OzgHFAWuNb+a52mBt7tz58mtNciPQiSpmZBxnEse2vzfKSxjQOcU9EoYTvMVORuMUdTWSm0v9MpN7fIBPM+B74sLTeUbGT6KapGI+dxgQlSL91LXsz8wts5WAEi5epQfNEDHZkSTyTvYQAGGwBIiMwKS1uZNjC6ChhDNsZaAuXGQUkxPa1oaRNW3TDGgAgeBivwRKGFHRBt2jRSSNhLq2ACj54hj3Mnjg50Kg4iPLVHqA+1jNfCNQC6wMyEZMEu2kALw6obZRS9gcUDap4syfNwgxpLgboEKfU0mj4aBYVPlnvrU5c1xdQtzJTpa431qhdz0qKcdTu+1Ju3Wjej5Bq0M1QDGi0n79ZBWgoUtOSa91KtBul5AxiTsRhGvpG45zK5gBFRS8gi8mZVY6ZdAFSqaMA6fN92zlSifX+NNtMGQ7y6BpQ9m4IRALzFzn1pdlypeDnmzLgBpP/prBgT33RlwSq4BjSc5IC1Q1x5cZYKDWhLs2jFY6Aao6yA0omxLXhChTsqCNjPOc30Y6perB5Yr9UqYXSiinBlBahuqOMds+NdIh6USvDtONBABE7s3vd+FTGHzmwvpLk0fS1TJqJexvs6ZLM2+i8ao0oJ2XTaTCWk9vlF96ddprVdFdCgiA0e1HAFD5Zh3OikktmmUcIybwWePwPwcqf/wt7C/xvm56ZJ1Wm1x2Xz9GgZpgb4QvckJgeBcMWlD+szfXR9kqMekVYsVR+iLYKe9zafefovUv77XdWjFF8b/OlLrekF1dxMqvXqQx8MtM46h9M3GY0K/5X2bSmhlSD0p7J8Yk6WMsXD1e9E85G0uH/j8dghl473JRu0AfW/sf6KO2xwzo6e/1/hf17m79/LV66zkbt9+qPxwyX+yLtXM3IN55r+6V2bhR6rjUfX+4u1vqbyf2dPNi/eWb9vB/afAFkXz+9JUhYfAAdGE1oNWjgWSC4PN84XYNBseW9qRRMS92z1EMsPbt9RmAA4d0cjRfTNA5dmWMXSVAPzma2/CvGrmmhiRQXGPIUtwtqHoCotD2XBkS8tiPEQNLj9xU5vIoXzwEnTxMQXeAyiASvd5wrAdTxBIxeSF0Yn1o4yw3UDpobG9a2vt+P4gzHSLYfS0BKuM67gq4QhzCGDtuwgW6qpXwmqHiZZU9gGB/nBU43ckMmBqZgXjP6l2/zgQqw5ki0+1CHLgD+thZ745YDWQ5ZmV2YSUQG4FNbQWgMviHGHWxrtcVh05JRQSPBM/QPalItjLQMBDjABoO0vsjoHdHkC2Jk8qHatV/H2g2+CBroULQI8QYIV+Q/ZPic/sTRgFc4+zLJiMAAAAASUVORK5CYII=>
 
